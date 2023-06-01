@@ -1,4 +1,3 @@
-
 class Mahasiswa:
     def __init__(self, nama, nim, jurusan):
         self.Nama = nama
